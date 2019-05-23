@@ -1,0 +1,1 @@
+add_column :tasts, :archive, :boolean, null: false, default: false
